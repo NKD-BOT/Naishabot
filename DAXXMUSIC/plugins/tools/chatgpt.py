@@ -3,7 +3,7 @@ from DAXXMUSIC import app
 import time
 from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
-from daxxAPI import api
+from MukeshAPI import api
 
 @app.on_message(filters.command(["chatgpt", "ai", "ask", "", "yt"], prefixes=[".", "J", "j", "s", "", "/"]))
 async def chat_gpt(bot, message):
