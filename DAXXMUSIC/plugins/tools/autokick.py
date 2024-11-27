@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 
 import config
 from DAXXMUSIC import app
-from DAXXMUSIC.core.call import Spotify, autoend
+from DAXXMUSIC.core.call import DAXX, autoend
 from DAXXMUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 
