@@ -24,12 +24,11 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "7194323242:AAHLGN460VLYpD_5l60r-yvRmVkxsXxBBFA": "",
+        "value-": "",
         "required": true
-      },
-      "MONGO_DB_URI": {
+    
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "mongodb+srv://ytuserbot12:30v6lYiMPLdUBM7d@cluster0.9l53pxx.mongodb.net/?retryWrites=true&w=majority": "",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
@@ -39,12 +38,12 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "BQFrnqwAmx114OdkXE8wBStqfOOoVHGwxsosNsTRG3RtXyOMaxnRhNlyh9LCf-TFosOUOFhvEpMFtH0gj9EzUOEywBeCVLbZA9nWM-_kaw6Bs4-U5j6mXGWRHNLFHRggQ-AJSacNaFwSt0l0sE0ZdHoBpi3kGnpA7ZDvdHjR8Al3Y-AjC9wavx0TWX2tAKepf2CRKN2OZAhG-4QTcXZzQk5-v9mYZAA6y2IISSXnz85B1Pb-q6Ty5OxHTuGXr5CaNxqlZ_FOD61tv_O2gSWP_8250iHokQv107HU71RHqPtlJneJCLjSfUCz6sBE-ml_acaGoN-31YFTzRU5NaO2F6YcIhLvwwAAAAGGU7qlAA": "",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "HRKU-0646ae39-1feb-46de-ae21-7d81c1265da1": "",
+        "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
